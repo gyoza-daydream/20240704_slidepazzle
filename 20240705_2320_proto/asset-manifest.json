@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/20240704_slidepazzle/20240705_2320_proto/static/css/main.3d45d0b1.css",
+    "main.js": "/20240704_slidepazzle/20240705_2320_proto/static/js/main.13d2fcc9.js",
+    "static/js/453.b7746f2a.chunk.js": "/20240704_slidepazzle/20240705_2320_proto/static/js/453.b7746f2a.chunk.js",
+    "index.html": "/20240704_slidepazzle/20240705_2320_proto/index.html",
+    "main.3d45d0b1.css.map": "/20240704_slidepazzle/20240705_2320_proto/static/css/main.3d45d0b1.css.map",
+    "main.13d2fcc9.js.map": "/20240704_slidepazzle/20240705_2320_proto/static/js/main.13d2fcc9.js.map",
+    "453.b7746f2a.chunk.js.map": "/20240704_slidepazzle/20240705_2320_proto/static/js/453.b7746f2a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d45d0b1.css",
+    "static/js/main.13d2fcc9.js"
+  ]
+}
