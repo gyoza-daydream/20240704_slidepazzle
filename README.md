@@ -3,6 +3,10 @@
 ## 概要
 
 React.js + TypeScriptによるスライドパズル実装です。
+動作サンプルは一旦pagesの方へ。
+
+https://gyoza-daydream.github.io/20240704_slidepazzle/20240705_2320_proto/
+
 マウスクリックで移動します。
 
 このアプリは[Create React App](https://github.com/facebook/create-react-app)で作成されました。
