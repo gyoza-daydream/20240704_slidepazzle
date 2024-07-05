@@ -28,6 +28,8 @@ TypeScriptを有効にしています。
 
 CC0です。
 
+リポジトリに同梱している画像は全てStable Diffusionで生成した画像です。利用モデルは<a href="https://civitai.com/models/131611/himawarimix">「みんさん」によるHimawari Mix XL v6</a>です。
+
 
 ---
 

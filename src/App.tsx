@@ -2,17 +2,14 @@ import React, { useState, useEffect } from 'react';
 
 
 // ======= 画像指定
-// const imageSrc = 'neko.jpg';
-// const imageSrc = '20240630_174507_himaXLv6_.png';
-// const imageSrc = '20240616_014534_p4a_v20_.jpeg';
-// const imageSrc = '20240616_014534_p4a_v20_.webp';
-const imageSrc = '20240629_144258_himaXLv6_.webp';
+const imageSrc = '20240616_014534_p4a_v20_.webp';
+// const imageSrc = '20240629_144258_himaXLv6_.webp';
 
 // パズル全体のアスペクト比（背景はこれに合わせて広がる）
-const ASPECT_RATIO:number=1.333
+const ASPECT_RATIO:number=1.0
 
 // パズルの分割数
-const ROWS = 3
+const ROWS = 4
 const COLS = 4
 
 
