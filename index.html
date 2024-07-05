@@ -1,20 +1,83 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ja">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>スライドパズルexample</title>
+
+<style type="text/css">
+    body{
+        background : black;
+        color : #ccc;
+    }
+    .full_body_container{
+        max-width : 1200px;
+        background : #333;
+        border-radius: 3em;
+        margin-left : auto;
+        margin-right: auto;
+        padding : 3em;
+    }
+    h1{
+        font-size : 40px;
+        font-weight : bold;
+        color : #ccc;
+    }
+    img{
+        width : 100%;
+    }
+    a:link{
+        color : #99f;
+    }
+    a:visited{
+        color : #66f;
+    }
+    a:hover{
+        color : green;
+    }
+
+
+
+</style>
+
 </head>
 <body>
+<div class="full_body_container">
 
-<a href="https://github.com/gyoza-daydream/20240704_slidepazzle">
-    github
-</a>
+    <h1>スライドパズル react + typescript</h1>
 
-<a href="./20240705_2320_proto/">
-    example 1
-</a>
+
+    <h2>概要</h2>
+    <p>このページではCC0で公開しているスライドパズル実装の動作サンプルを掲載しております。</p>
+    <p>同梱している画像は全てStable Diffusionで生成した画像です。利用モデルは<a href="https://civitai.com/models/131611/himawarimix">「みんさん」によるHimawari Mix XL v6</a>です。</p>
+
+    <h2>links</h2>
+
+    <ul>
+        <li>
+            <a href="https://github.com/gyoza-daydream/20240704_slidepazzle">
+                github
+            </a>
+        </li>
+        <li>
+            <a href="./20240705_2320_proto/">
+                動作物サンプル1 : 4x3 12 cells
+            </a>
+        </li>
+        <li>
+            <a href="./20240705_2337_8x11_proto/">
+                動作物サンプル2 : 8x11 12 cells
+            </a>
+        </li>
+    </ul>
+
+    <h2>スクリーンショット</h2>
+
+    <img src="images/v20240704_1.png" />
+    <img src="images/v20240704_2.png" />
+    <img src="images/v20240704_3.png" />
     
-    
+
+</div>
 </body>
 </html>
