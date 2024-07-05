@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react';
-import './App.css';
 
 
 // ======= 画像指定
@@ -13,8 +12,8 @@ const imageSrc = '20240629_144258_himaXLv6_.webp';
 const ASPECT_RATIO:number=1.333
 
 // パズルの分割数
-const ROWS = 30
-const COLS = 40
+const ROWS = 3
+const COLS = 4
 
 
 // ===== 設定ここまで
