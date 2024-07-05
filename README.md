@@ -7,10 +7,19 @@ React.js + TypeScriptによるスライドパズル実装です。
 
 https://gyoza-daydream.github.io/20240704_slidepazzle/20240705_2320_proto/
 
-マウスクリックで移動します。
+pages側のトップページにも軽く紹介を添えました。
+
+https://gyoza-daydream.github.io/20240704_slidepazzle/
 
 このアプリは[Create React App](https://github.com/facebook/create-react-app)で作成されました。
 TypeScriptを有効にしています。
+
+
+## 操作方法
+
+空白セルに隣接するセルをマウスクリックorスマホのタップ操作すると移動します。
+
+特に現状では正解系に達してもなんの反応もしていない実装です。
 
 
 ### reactのメモ: `npm start`
