@@ -4,6 +4,16 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+
+// 設定値の上書きテスト
+// const winScope = (window as any)
+// winScope.SlidePuzzleConfig = {
+//   src: "20240629_144258_himaXLv6_.webp",
+//   ratio: 1.333,
+//   rows: 3,
+//   cols: 4,
+// }
+
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
 );
